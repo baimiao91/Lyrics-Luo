@@ -106,12 +106,11 @@ module.exports = {
               text: '悦读管理后台',
               link: '/zh/interface/Yuedu.md'
             }, ]
-          },
-          {
+          }, {
             text: '一些软件配置',
-            items:[{
-              text:'Charles',
-              link:'/zh/charles/'
+            items: [{
+              text: 'Charles',
+              link: '/zh/charles/'
             }]
           },
           // {
