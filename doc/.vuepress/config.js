@@ -10,7 +10,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: '人小鬼大的小屋',
-      description: '任何不能够给你快乐的编程都是耍流氓'
+      description: '人生如戏，全靠演技，当音乐响起没有你看不透的把戏'
     }
   },
   head: [
@@ -56,7 +56,7 @@ module.exports = {
   theme: 'vue',
   themeConfig: {
     repo: 'baimiao91',
-    editLinks: true,
+    editLinks: false,
     docsDir: 'doc',
     locales: {
       '/': {
@@ -80,8 +80,14 @@ module.exports = {
               link: '/zh/standard/Compatibility.md'
             }],
           }, {
-						text: '诗萝k',
-						link: '/zh/Apoem/Index.md'
+						text: '生当作人杰',
+						items:[{
+							text:'诗萝k',
+							link: '/zh/Apoem/poem.md',
+						}, {
+							text:'苟女',
+							link:'/zh/Apoem/poemluo.md'
+						}]
 					}, {
 						text: 'charles简单配置',
 						link: '/zh/charles/Index.md'
