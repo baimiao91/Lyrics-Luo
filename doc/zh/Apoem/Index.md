@@ -38,3 +38,29 @@ sidebarDepth: 2
 	细沙积堆随风吹，失去秋黄瞻望远方
 ```
 ---
+## 孤独患者
+- 孤身-徐秉龙  [https://music.163.com/#/song?id=1365393542](https://music.163.com/#/song?id=1365393542)
+- 仙人指路-[歌之初乐队](https://music.163.com/#/artist?id=12200017)  [https://music.163.com/#/song?id=1320785366](https://music.163.com/#/song?id=1320785366)
+- 孤独城市-李上安  [https://music.163.com/#/song?id=570334125](https://music.163.com/#/song?id=570334125)
+- 余香-张小九  [https://music.163.com/#/song?id=487885426](https://music.163.com/#/song?id=487885426)
+- 生而为人-尚士达  [https://music.163.com/#/song?id=1335350269](https://music.163.com/#/song?id=1335350269)
+- 水星记-[郭顶](https://music.163.com/#/artist?id=2843)  [https://music.163.com/#/song?id=441491828](https://music.163.com/#/song?id=441491828)
+- 童话镇Plus  [https://music.163.com/#/song?id=428642306](https://music.163.com/#/song?id=428642306)
+- 理想三旬-陈鸿宇  [https://music.163.com/#/song?id=31445772](https://music.163.com/#/song?id=31445772)
+- 借-毛不易  [https://music.163.com/#/song?id=569214250](https://music.163.com/#/song?id=569214250)
+- 感谢你曾来过-周思涵/Ayo97  [https://music.163.com/#/song?id=460578140](https://music.163.com/#/song?id=460578140)
+- 下雨了-薛之谦  [https://music.163.com/#/song?id=32507039](https://music.163.com/#/song?id=32507039)
+---
+### 推荐歌手
+- [薛之谦](https://music.163.com/#/artist?id=5781)
+- [尚士达](https://music.163.com/#/artist?id=13608761)
+- [毛不易](https://music.163.com/#/artist?id=12138269)
+- [隔壁老樊](https://music.163.com/#/artist?id=12429072)
+- [枯木逢春](https://music.163.com/#/artist?id=30284835)
+---
+### 推荐歌单
+1. [落笔成诗](https://music.163.com/#/playlist?id=2878395717)
+2. [My like Music](https://music.163.com/#/playlist?id=902834544)
+
+### My Alone Home
+- [孤独小屋](https://music.163.com/#/user/home?id=581136322)

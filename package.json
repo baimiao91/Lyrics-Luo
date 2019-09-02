@@ -1,5 +1,5 @@
 {
-  "name": "vuepress",
+  "name": "baimiao",
   "version": "0.14.1",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git"
+    "url": "git+git@github.com:baimiao91/baimiao91.github.io.git"
   },
   "keywords": [
     "documentation",
@@ -27,9 +27,9 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vuepress/issues"
+    "url": "https://https://github.com/baimiao91/baimiao91.github.io/issues"
   },
-  "homepage": "https://github.com/vuejs/vuepress#readme",
+  "homepage": "https://github.com/baimiao91/baimiao91.github.io/",
   "lint-staged": {
     "*.{js,vue}": [
       "eslint --fix",
