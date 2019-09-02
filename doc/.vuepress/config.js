@@ -9,7 +9,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '前端知识点总结',
+      title: '人小鬼大的小屋',
       description: '任何不能够给你快乐的编程都是耍流氓'
     }
   },
@@ -55,7 +55,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'jasonandjay',
+    repo: 'baimiao91',
     editLinks: true,
     docsDir: 'docs',
     locales: {
@@ -80,61 +80,10 @@ module.exports = {
               link: '/zh/standard/Compatibility.md'
             }],
           }, {
-            text: '知名公司面试题',
-            items: [{
-              text: '面试必看',
-              link: '/zh/interview/index.md'
-            }, {
-              text: '阿里巴巴',
-              link: '/zh/interview/ali.md'
-            }, {
-              text: '龙湖地产',
-              link: '/zh/interview/longhu.md'
-            }]
-          }, {
-            text: '知识点笔记',
-            items: [{
-              text: 'Vue',
-              link: '/zh/vue/'
-            }, {
-              text: 'React',
-              link: '/zh/react/'
-            }, {
-              text: '小程序',
-              link: '/zh/miniapp/'
-            }, {
-              text: '悦读管理后台',
-              link: '/zh/interface/Yuedu.md'
-            }, ]
-          }, {
-            text: '一些软件配置',
-            items: [{
-              text: 'Charles',
-              link: '/zh/charles/'
-            }]
-          },
-          // {
-          //   text: '语言',
-          //   items: [
-          //     { text: 'Chinese', link: '/language/chinese' },
-          //     { text: 'Japanese', link: '/language/japanese' }
-          //   ]
-          // },
-
-          // {
-          //   text: '配置参考',
-          //   link: '/config/'
-          // },
-          // {
-          //   text: '默认主题配置',
-          //   link: '/default-theme-config/'
-          // }
+						text: '诗萝k',
+						link: '/zh/Apoem/Index.md'
+					}
         ],
-        // sidebar: [
-        //   '/',
-        //   '/guide',
-        //   '/zh/ali'
-        // ],
         sidebar: {
           '/guide/': genSidebarConfig('指南'),
           '/zh/ali/': [{
@@ -157,7 +106,13 @@ module.exports = {
             children: [
               '', 'WXS', 'wepy组件通信', '小程序事件', '小程序路由', '小程序组件', '小程序组件化'
             ]
-          }]
+					}],
+					'/zh/Apoem': [{
+						title:'诗和远方',
+						children: [
+							'', 'SELL'
+						]
+					}]
         }
       }
     },

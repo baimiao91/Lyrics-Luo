@@ -5,7 +5,7 @@ actionText: Let`s Go →
 actionLink: /guide/
 sidebarDepth: 2
 sidebar: auto
-footer: MIT Licensed | Copyright © 1970-present Jasonandjay
+footer: MIT Licensed | Copyright © 2019-present Baimiao91
 ---
 
 <div style="text-align: center">
