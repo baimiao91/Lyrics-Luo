@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" src="https://avatars3.githubusercontent.com/u/41990039?s=40&v=4" alt="logo">
+  <img width="280" src="./redbud/pre.jpg" alt="logo">
 </p>
 
 ## Target
