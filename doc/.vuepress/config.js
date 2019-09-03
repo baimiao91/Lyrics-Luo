@@ -64,22 +64,24 @@ module.exports = {
         selectText: '选择语言',
         editLinkText: '编辑此页',
         lastUpdated: '上次更新',
-        nav: [{
-            text: '快速搭建开发环境',
-            link: '/zh/standard/Start.md'
-          }, {
-            text: '项目相关',
-            items: [{
-              text: '前端规范',
-              link: '/zh/standard/Standard.md'
-            }, {
-              text: '项目流程',
-              link: '/zh/standard/Project.md'
-            }, {
-              text: '移动端兼容问题',
-              link: '/zh/standard/Compatibility.md'
-            }],
-          }, {
+        nav: [
+					// {
+          //   text: '快速搭建开发环境',
+          //   link: '/zh/standard/Start.md'
+          // }, {
+          //   text: '项目相关',
+          //   items: [{
+          //     text: '前端规范',
+          //     link: '/zh/standard/Standard.md'
+          //   }, {
+          //     text: '项目流程',
+          //     link: '/zh/standard/Project.md'
+          //   }, {
+          //     text: '移动端兼容问题',
+          //     link: '/zh/standard/Compatibility.md'
+          //   }],
+					// },
+					{
 						text: '生当作人杰',
 						items:[{
 							text:'诗萝k',
