@@ -87,6 +87,9 @@ module.exports = {
 						}, {
 							text:'苟女',
 							link:'/zh/Apoem/poemluo.md'
+						}, {
+							text:'白描',
+							link:'/zh/Apoem/lyrics.md'
 						}]
 					}, {
 						text: 'charles简单配置',
