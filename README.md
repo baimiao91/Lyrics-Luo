@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" src="./redbud/pre.jpg" alt="logo">
+  <img width="280" src="./redbud/pre.gif" alt="logo">
 </p>
 
 ## Target
