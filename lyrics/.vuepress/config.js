@@ -1,6 +1,6 @@
 module.exports = {
-  dest: 'redbud',
-  base: '/',
+  dest: './poems',
+  base: '/Lyrics/',
   markdown: {
     toc: {
       includeLevel: [2, 3]
@@ -9,7 +9,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '人小鬼大的小屋',
+      title: '诗萝k',
       description: '人生如戏，全靠演技，当音乐响起没有你看不透的把戏'
     }
   },
@@ -34,19 +34,6 @@ module.exports = {
       name: 'apple-mobile-web-app-status-bar-style',
       content: 'black'
     }],
-    ['link', {
-      rel: 'apple-touch-icon',
-      href: `/icons/apple-touch-icon-152x152.png`
-    }],
-    ['link', {
-      rel: 'mask-icon',
-      href: '/icons/safari-pinned-tab.svg',
-      color: '#3eaf7c'
-    }],
-    ['meta', {
-      name: 'msapplication-TileImage',
-      content: '/icons/msapplication-icon-144x144.png'
-    }],
     ['meta', {
       name: 'msapplication-TileColor',
       content: '#000000'
@@ -57,7 +44,7 @@ module.exports = {
   themeConfig: {
     repo: 'baimiao91',
     editLinks: false,
-    docsDir: 'doc',
+    docsDir: 'lyrics',
     locales: {
       '/': {
         label: '简体中文',
@@ -100,7 +87,7 @@ module.exports = {
         ]
       }
     },
-  }
+	}
 }
 
 function genSidebarConfig(title) {

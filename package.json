@@ -7,8 +7,8 @@
     "vuepress": "bin/vuepress.js"
   },
   "scripts": {
-    "dev": "node bin/vuepress dev doc",
-    "build": "node bin/vuepress build doc",
+    "dev": "node bin/vuepress dev lyrics",
+    "build": "node bin/vuepress build lyrics",
     "lint": "eslint --fix --ext .js,.vue bin/ lib/ test/",
     "deploy-gh": "yarn build && bash scripts/deploy-gh.sh",
     "prepublishOnly": "conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:baimiao91/baimiao91.github.io.git"
+    "url": "git+git@github.com:baimiao91/Lyrics-Luo.git"
   },
   "keywords": [
     "documentation",
@@ -27,9 +27,9 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://https://github.com/baimiao91/baimiao91.github.io/issues"
+    "url": "https://github.com/baimiao91/Lyrics-Luo/issues"
   },
-  "homepage": "https://github.com/baimiao91/baimiao91.github.io/",
+  "homepage": "https://baimiao91.github.io/Lyrics-Luo/",
   "lint-staged": {
     "*.{js,vue}": [
       "eslint --fix",
