@@ -1,5 +1,5 @@
 module.exports = {
-  dest: './poems',
+  dest: './Baimiao',
   base: '/Lyrics/',
   markdown: {
     toc: {
@@ -72,13 +72,13 @@ module.exports = {
 						text: '生当作人杰',
 						items:[{
 							text:'诗萝k',
-							link: '/zh/Apoem/poem.md',
+							link: '/zh/Lyrics/poem.md',
 						}, {
-							text:'苟女',
-							link:'/zh/Apoem/poemluo.md'
+							text:'Lyrics',
+							link:'/zh/Lyrics/Lyrics.md'
 						}, {
 							text:'白描',
-							link:'/zh/Apoem/lyrics.md'
+							link:'/zh/Lyrics/Baimiao.md'
 						}]
 					}, {
 						text: 'charles简单配置',
